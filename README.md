@@ -7,6 +7,9 @@ Date : 26 April 2015 <br>
 
 <img src="https://3.bp.blogspot.com/-E3odg_Ow3Ss/W6Ni_P67K8I/AAAAAAAAAPs/iLaqJXTC248ugepo8ChkNjin7ziVKs4eQCLcBGAs/s1600/miladpro-blogger-template.png"/>
 
+<h3>Link Demo :</h3>
+https://miladpro-da.blogspot.com/ <br/>
+
 <h3> Cara Mengatur Menu Navigasi :</h3>
 <p>
 1. Masuk ke Dashboard > Template > Edit HTML<br/>
@@ -28,6 +31,6 @@ Date : 26 April 2015 <br>
 </code></pre>
 3. Silahkan anda atur sesuai dengan keinginan :<br/>
 
-<h3> Cara Mengaktifkan Mobile Friendly</h3>
+<h3> Cara Mengaktifkan Mobile Friendly :</h3>
 1. Masuk ke Dashboard > Template > Pada bagian Seluler klik icon gerigi<br/>
 2. Pada bagian <i>"Di perangkat seluler, menampilkan versi seluler template Anda saat ini"</i> pilih <i>"Tidak. Tampilkan template seluler di perangkat seluler"</i><br/>
